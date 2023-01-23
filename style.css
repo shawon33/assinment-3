@@ -91,3 +91,10 @@ section h1{
     width: 70px;
     height:80px;
 }
+
+/* section-2 */
+section div .client-img{
+    width: 450px;
+    height: 440px;
+    border-radius: 50%;
+}
