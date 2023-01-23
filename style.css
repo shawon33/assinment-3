@@ -66,6 +66,14 @@ section{
 
 
 /* section-1*/
+section .list-1{
+    text-align: center;
+
+}
+section h1{
+    font-size: 70px;
+    font-weight: bold;
+}
 .card{
     width: auto;
     height: 500px;
@@ -78,4 +86,8 @@ section{
     width: 100px;
     height: 80px;
     margin: auto;
+}
+.card a img{
+    width: 70px;
+    height:80px;
 }
